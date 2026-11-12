@@ -8,7 +8,14 @@
      width="145"
      alt="Abhay Verma GitHub profile photo"/>
 
-<br/><br/>
+<br/>
+<br/>
+
+<a href="https://readme-typing-svg.herokuapp.com">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00FF66&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Abhay!;Engineering+Student+at+NIT+Patna;Aspiring+Web+Developer;Exploring+Robotics;Keep+Learning+Keep+Building!" />
+</a>
+
+<br/>
 
 <a href="https://readme-typing-svg.herokuapp.com">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00FF66&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Abhay+%F0%9F%91%8B;Engineering+Student+at+NIT+Patna;Aspiring+Web+Developer;Exploring+Robotics+%26+Technology;Always+Learning+Something+New!" alt="Typing animation"/>
