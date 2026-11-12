@@ -1,14 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B1F,100:00FF66&height=200&section=header&text=ABHAY%20VERMA&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=ENGINEERING%20STUDENT%20%7C%20DEVELOPER&descAlignY=58&descSize=16" width="100%" />
-
-<a href="https://github.com/abhay-1801">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Abhay+%F0%9F%91%8B;Engineering+Student+at+NIT+Patna;Aspiring+Web+Developer;Exploring+Robotics+%26+Technology;Building+Ideas+Into+Reality!" alt="Typing Animation" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B1F,100:00FF66&height=200&section=header&text=ABHAY%20VERMA&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descAlignY=58&descSize=17" width="100%" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=abhay-1801&label=PROFILE+VIEWS&color=00CC66&style=for-the-badge" />
+<img src="https://github.com/abhay-1801.png"
+     width="145"
+     alt="Abhay Verma GitHub profile photo"/>
+
+<br/><br/>
+
+<a href="https://readme-typing-svg.herokuapp.com">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00FF66&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Abhay+%F0%9F%91%8B;Engineering+Student+at+NIT+Patna;Aspiring+Web+Developer;Exploring+Robotics+%26+Technology;Always+Learning+Something+New!" alt="Typing animation"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=abhay-1801&label=PROFILE+VIEWS&color=00CC66&style=for-the-badge"/>
 
 </div>
 
