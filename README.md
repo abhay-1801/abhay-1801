@@ -18,7 +18,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=abhay-1801&label=PROFILE+VIEWS&color=00CC66&style=for-the-badge"/>
 
 </div>
 
