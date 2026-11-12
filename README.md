@@ -9,11 +9,6 @@
      alt="Abhay Verma GitHub profile photo"/>
 
 <br/>
-<br/>
-
-<a href="https://readme-typing-svg.herokuapp.com">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00FF66&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Abhay!;Engineering+Student+at+NIT+Patna;Aspiring+Web+Developer;Exploring+Robotics;Keep+Learning+Keep+Building!" />
-</a>
 
 <br/>
 
